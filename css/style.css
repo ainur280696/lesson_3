@@ -1,0 +1,54 @@
+body{
+    color:crimson;
+}
+h1{
+    color:rgb(156, 11, 88);
+}
+/* .about p{
+    color:darkviolet;
+} */
+.about {
+    color:rgb(219, 13, 219);
+}
+.about p{
+   color:rgb(184, 16, 134);
+}
+.about span{
+    color: rgba(105, 0, 56, 0.884);
+}
+.youth h2{
+    color:rgb(26, 64, 100);
+}
+.youth p{
+    color:rgb(43, 118, 189);
+}
+.youth span{
+    color:rgb(0, 47, 90);
+}
+#childhood{
+    color:rgb(97, 138, 16);
+}
+.youth p{
+    color:yellow;
+}
+div .youth-childhood{
+    color:red;
+}
+.career{
+    color:sienna;
+}
+[title="actress"]{
+    color:rgb(95, 35, 7);
+}
+[class*="in-cinema"]{
+    color:rgba(255, 72, 0, 0.918);
+}
+div .section > p{
+    color:springgreen;
+}
+.section-3 + p{
+    color:red;
+}
+.section-3 ~ p{
+    color:rgb(156, 11, 88);
+}
